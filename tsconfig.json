@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+   
+    "target": "es2016",       
+    "lib": ["ES2018", "DOM"],                               
+    "module": "commonjs", 
+   // "rootDir": "./",     
+   "allowJs": true,  
+    "outDir": "./build",             
+    "esModuleInterop": true,        
+    "forceConsistentCasingInFileNames": true,    
+    "strict": true,               
+    "skipLibCheck": true         ,
+    "noImplicitAny": true      ,
+    "resolveJsonModule": true  
+  },
+  //"assets": [ "./input/**/*" ]
+ // "files": ["**/*.ts"]
+ //, "include": ["input/**/*","output/**/*"],
+ //,"include": ["./**/.eslintrc.js"]
+"exclude": ["node_modules", "spec","build"]
+}
