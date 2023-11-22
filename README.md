@@ -5,14 +5,14 @@ Some validation is carried out on the entered parameters.
 
 
 ## The Used Technology 
-Sharp is used for the image's resizing. 
-Typescript is used for coding.
-validator is used for validations.
-eslint is used for linting.
-prettier is used for formatting.
-jasmine/supertest are used for Unit testing.
-Nodemon utility is used to detect code changes.
-Express is used for routing and HTTP utility methods.
+#### Sharp is used for the image's resizing. 
+#### Typescript is used for coding.
+#### validator is used for validations.
+#### Eslint is used for linting.
+#### prettier is used for formatting.
+#### Jasmine/supertest are used for Unit testing.
+#### Nodemon utility is used to detect code changes.
+#### Express is used for routing and HTTP utility methods.
 
 ## CMD Used
 #### npx prettier index.ts --check
