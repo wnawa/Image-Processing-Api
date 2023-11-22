@@ -24,10 +24,10 @@ Express is used for routing and HTTP utility methods.
    
 -----------------------------------------------------------------------------------
 
-## Test links
-####  Root page
+## API Test URL
+####  API Root URL
 http://localhost:8080
-####  page to enter API details
+####  API URL to enter Image details
 http://localhost:8080/api?filename=encenadaport.jpg&width=100&height=100
 ####  API page test with no image details
 http://localhost:8080/api
