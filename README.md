@@ -14,13 +14,12 @@ jasmine/supertest are used for Unit testing.
 Nodemon utility is used to detect code changes.
 Express is used for routing and HTTP utility methods.
 
-## cmd 
-npx prettier index.ts --check
-npm run start
-npm run build
-
-npm run test 
-node build/index
+## CMD Used
+#### npx prettier index.ts --check
+#### npm run start
+#### npm run build
+#### npm run test 
+#### node build/index
 
    
 -----------------------------------------------------------------------------------
